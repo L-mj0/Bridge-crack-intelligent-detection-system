@@ -2,7 +2,7 @@
 
 1.流程图
 
-![](images\1.png)
+![](images/1.png)
 
 **Yolo v5部分流程：**
 
@@ -18,8 +18,8 @@
 
 ### 界面
 
-![2](images\2.jpg)
+![2](images/2.jpg)
 
 
 
-![3](images\3.png)# Bridge-crack-intelligent-detection-system
+![3](images/3.png)# Bridge-crack-intelligent-detection-system
